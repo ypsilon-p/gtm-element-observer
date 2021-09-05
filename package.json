@@ -1,0 +1,23 @@
+{
+  "name": "gtm-element-observer",
+  "version": "0.0.1",
+  "description": "Quickly and easily send an info to the Google Tag Manager when an element is in the viewport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypsilon-p/gtm-element-observer.git"
+  },
+  "keywords": [
+    "google-tag-manager",
+    "observer"
+  ],
+  "author": "Yannik Preiß",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ypsilon-p/gtm-element-observer/issues"
+  },
+  "homepage": "https://github.com/ypsilon-p/gtm-element-observer#readme"
+}
